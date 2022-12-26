@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Page Views**(Counting since 26 Dec 2022): ![Visitor Count](https://profile-counter.glitch.me/BelalDotNet/count.svg)
+**My Profile Visitor**(Counting since 26 Dec 2022): ![Visitor Count](https://profile-counter.glitch.me/BelalDotNet/count.svg)
