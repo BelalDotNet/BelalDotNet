@@ -17,4 +17,30 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 📈 My GitHub Stats
+### GitHub Stars
+
+![Belal's Github Stats](https://github-readme-stats.vercel.app/api?username=BelalDotNet&show_icons=true&theme=radical)
+
+### Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BelalDotNet&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### GitHub Streak
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=BelalDotNet&theme=highcontrast&hide_border=true" alt="Belal" />
+
+### GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=BelalDotNet&theme=juicyfresh&no-bg=true" />
+
+## 📫 You can find me @
+<!-- YOU-CAN-FIND-ME:START -->
+- [LinkedIn](https://www.linkedin.com/in/UniqueBelal/) 💼
+- [Facebook](https://www.facebook.com/UniqueBelal) 😏
+- [Twitter](https://twitter.com/UniqueBelal) 🐤
+- [Instagram](https://www.instagram.com/UniqueBelal/) 😎
+<!-- YOU-CAN-FIND-ME:END -->
+
+
 **My Profile Visitor**(Counting since 26 Dec 2022): ![Visitor Count](https://profile-counter.glitch.me/BelalDotNet/count.svg)
