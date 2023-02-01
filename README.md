@@ -1,7 +1,17 @@
-## Hello there My Name is Belal Hossain 👋 🧑‍💻
-![BelalDotNet_Github](https://user-images.githubusercontent.com/55940608/209474226-5f1e418a-100f-46e7-be90-c96158173ee0.png)
+## Hello there My Name is Belal Hossain
+<!--![BelalDotNet_Github](Images/ProfileCover.png)-->
+> I’m a Software Developer specializing in building Web & Desktop Applications. I love building Application Using ASP.NET (Windows Form,WPF, Web Form, MVC & CORE ) Framework.  As for the backend, I work with `ASP.NET Core WebAPIs` & `SQL` following Clean Architecture Principles. 
 
 
+#### My Working Stack
+<!--![Csharp](Images/MicrosoftDotNet.jpeg)-->
+<img height="48" src="Images/MicrosoftDotNet.jpeg" alt="Csharp">
+<img height="48" src="Images/DotNetCore.png" alt="Csharp">
+<img height="48" src="Images/WEBAPI.png" alt="Csharp">
+<img height="48" src="Images/EFCore.png" alt="Csharp">
+<img height="48" src="Images/SQL.png" alt="Csharp">
+<img height="48" src="Images/JS.png" alt="Csharp">
+<img height="48" src="Images/Github.png" alt="Csharp">
 <!--
 **BelalDotNet/BelalDotNet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
