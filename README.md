@@ -1,6 +1,6 @@
-## Hello there My Name is Belal Hossain
+## Hi I'm Md. Ballal Hossain.
 <!--![BelalDotNet_Github](Images/ProfileCover.png)-->
-> I’m a Software Developer specializing in building Web & Desktop Applications. I love building Application Using ASP.NET (Windows Form,WPF, Web Form, MVC & CORE ) Framework.  As for the backend, I work with `ASP.NET Core WebAPIs` & `SQL` following Clean Architecture Principles. 
+> I’m a Software Developer specializing in building Web & Desktop Applications. I love building Application Using ASP.NET 6+ (Windows Form,WPF, Web Form, MVC & CORE ) Framework.  As for the backend, I work with `ASP.NET Core WebAPIs` & `SQL` following Clean Architecture Principles. 
 
 
 #### My Working Stack
