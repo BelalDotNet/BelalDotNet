@@ -5,13 +5,7 @@
 
 #### My Working Stack
 <!--![Csharp](Images/MicrosoftDotNet.jpeg)-->
-<img height="48" src="Images/MicrosoftDotNet.jpeg" alt="Csharp">
-<img height="48" src="Images/DotNetCore.png" alt="Csharp">
-<img height="48" src="Images/WEBAPI.png" alt="Csharp">
-<img height="48" src="Images/EFCore.png" alt="Csharp">
-<img height="48" src="Images/SQL.png" alt="Csharp">
-<img height="48" src="Images/JS.png" alt="Csharp">
-<img height="48" src="Images/Github.png" alt="Csharp">
+<img height="48" src="Images/MicrosoftDotNet.jpeg" alt="Csharp"> <img height="48" src="Images/DotNetCore.png" alt="Csharp"> <img height="48" src="Images/WEBAPI.png" alt="Csharp"> <img height="48" src="Images/EFCore.png" alt="Csharp"> <img height="48" src="Images/SQL.png" alt="Csharp"> <img height="48" src="Images/JS.png" alt="Csharp"> <img height="48" src="Images/Github.png" alt="Csharp">
 <!--
 **BelalDotNet/BelalDotNet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
