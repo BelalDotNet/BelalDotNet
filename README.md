@@ -1,9 +1,9 @@
-## Hi I'm Md. Ballal Hossain.
+## Hi I'm Md. Ballal Hossain. 👋
 <!--![BelalDotNet_Github](Images/ProfileCover.png)-->
 > I’m a Software Developer specializing in building Web & Desktop Applications. I love building Application Using ASP.NET 6+ (Windows Form,WPF, Web Form, MVC & CORE ) Framework.  As for the backend, I work with `ASP.NET Core WebAPIs` & `SQL` following Clean Architecture Principles. 
 
 
-#### My Working Stack
+#### My Working Stack 💻
 <!--![Csharp](Images/MicrosoftDotNet.jpeg)-->
 <img height="48" src="Images/MicrosoftDotNet.jpeg" alt="Csharp"> <img height="48" src="Images/DotNetCore.png" alt="Csharp"> <img height="48" src="Images/WEBAPI.png" alt="Csharp"> <img height="48" src="Images/EFCore.png" alt="Csharp"> <img height="48" src="Images/SQL.png" alt="Csharp"> <img height="48" src="Images/JS.png" alt="Csharp"> <img height="48" src="Images/Github.png" alt="Csharp">
 <!--
